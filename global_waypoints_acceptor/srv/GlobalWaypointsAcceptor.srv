@@ -1,0 +1,5 @@
+int64 num_waypoints
+string frame_id
+geometry_msgs/Pose2D[] waypoints
+---
+bool result

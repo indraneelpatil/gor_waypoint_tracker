@@ -1,0 +1,8 @@
+<library path="lib/liblocal_waypoints_tracker">
+  <class name="GorLocalWaypointsTracker/LocalWaypointsTracker" type="GorLocalWaypointsTracker::LocalWaypointsTracker" base_class_type="nav_core::BaseLocalPlanner">
+    <description>
+      Tries to reach the goal destination with an optimal max velocity while passing through the waypoints without stopping
+    </description>
+  </class>
+</library>
+

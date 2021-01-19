@@ -1,0 +1,5 @@
+<library path="lib/libglobal_waypoints_acceptor"> 
+  <class name="GorGlobalWaypointsAcceptor/GlobalWaypointsAcceptor" type="GorGlobalWaypointsAcceptor::GlobalWaypointsAcceptor" base_class_type="nav_core::BaseGlobalPlanner">
+    <description>Accepts global piece wise linear obstacle free waypoints and resamples the path wherever need to increase resolution</description>
+  </class>
+</library>

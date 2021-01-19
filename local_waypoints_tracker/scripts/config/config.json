@@ -1,0 +1,21 @@
+{
+     "butler_xl": {
+        "ticks_per_meter": 187842.038,
+        "base_width": 0.860
+    },
+
+    "butler_m_2_1": {
+        "ticks_per_meter": 231104.87,
+        "base_width": 0.5769
+        },
+
+    "butler_m_2_0": {
+        "ticks_per_meter": 31345.60,
+        "base_width": 0.5769
+        },
+
+    "butler_m_1_5": {
+        "ticks_per_meter": 31345.60,
+        "base_width": 0.5769
+        }
+}
