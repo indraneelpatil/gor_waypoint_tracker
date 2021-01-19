@@ -7,6 +7,6 @@ Demo available at
 
 
 <div align='centre'>
-  <img src='images/nav_2_0_movebase.png' width='400px' align='centre'>
+  <img src='images/nav_2_0_movebase.png' width='700px' align='centre'>
 </div>
 
